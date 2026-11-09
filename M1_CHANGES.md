@@ -59,3 +59,10 @@ excluded. No remote repository actions were performed.
 To apply the work to an existing checkout, copy the three production files and
 three new test files listed above into the same relative paths, then run the
 M1 validation command.
+
+## GitHub repository scope
+
+This repository contains the six M1 implementation/test files and this report.
+Copy these files into the same paths in your original SubStream starter project
+to compile and run the validation command above. The starter dependencies,
+build configuration and other milestones are not included in this repository.
